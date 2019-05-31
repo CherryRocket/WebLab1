@@ -1,13 +1,7 @@
-.block1{
-    display: flex;
-    justify-content: center;
-}
-
 .box1{
-    display: flex;
-    justify-content: center;
+    margin: 0 auto;
     border: 4px solid black;
-    flex-basis: 175px;
+    width: 175px;
     height: 250px;
 }
 
@@ -32,6 +26,7 @@
 }
 
 .box3{
+    margin: 0 auto;
     border: 4px solid black;
     flex-basis: 850px;
     height: 175px;
